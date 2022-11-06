@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
 }
 
 code {
@@ -21,4 +21,10 @@ code {
 
 button {
   cursor: pointer;
+  /* background-color: aquamarine; */
+  border: transparent;
+}
+
+img {
+  border-radius: 50%;
 }
